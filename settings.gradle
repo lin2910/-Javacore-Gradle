@@ -1,0 +1,5 @@
+rootProject.name = 'GradleL'
+
+include 'db'
+include 'service'
+include 'api'
